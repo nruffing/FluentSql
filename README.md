@@ -3,6 +3,7 @@ A work-in-progress library for a fluent interface to generate SQL statements. Cu
 
 The following statements are currently implemented.
 * CREATE TABLE (IF EXISTS)
+* SELECT (NOTE: WHERE clauses are not implemented yet.)
 
 The following SQLite data types are currently supported.
 * INTEGER
